@@ -1,21 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on my own projects.<br>👯 I’m looking to collaborate with others developmenters.<br>🌱 I’m currently learning Python for data science, SQL, JavaScript and project managament.<br>💬 Ask me about data analysis, sustainable management of forest resources and quality control of forest products.<br>
+# Hola, soy Aarón Izaguirre
 
+Bachiller en Ciencias Forestales por la UNALM y estudiante de Computación e Informática en Cibertec.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aa_izaguirre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaizaguirreo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aa_izaguirre) 
+Actualmente estoy orientando mi desarrollo profesional hacia el sector tecnológico, con especial interés en soporte TI, infraestructura tecnológica, desarrollo de software y soluciones digitales.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaizaguirre&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaizaguirre&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaizaguirre&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Mi experiencia profesional incluye supervisión de operaciones, coordinación de equipos, gestión de información y mejora de procesos, competencias que hoy complemento con conocimientos en programación, bases de datos y tecnologías de la información.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aaizaguirre&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+## Sobre mí
+- 🎓 Bachiller en Ciencias Forestales (UNALM)
+- 💻 Estudiante de Computación e Informática (Cibertec)
+- 📊 Experiencia en gestión de información y mejora de procesos
+- 👥 Experiencia supervisando equipos de trabajo
+- 🌱 Interesado en soporte TI, infraestructura, automatización y desarrollo de software
+- 📍 Lima, Perú
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aaizaguirre&limit=5&theme=nord&combine_all_yearly_contributions=true)
+## Tecnologías y herramientas
+### Lenguajes
+- Java
+- Python
+- JavaScript
+- SQL
+### Desarrollo Web
+- HTML
+- CSS
+### Bases de Datos
+- SQL Server
+### Herramientas
+- Git
+- GitHub
+- Microsoft Excel
+### Otros
+- QGIS
+
+## Certificaciones
+- Oracle Cloud Infrastructure Foundation Associate
+- Google AI Essentials
+- Oracle Next Education - Back-End
+- ONE Tech Foundation - Data Science
+- Fundamentos de Gestión de Proyectos (PMI)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
